@@ -69,3 +69,5 @@ while True:
         else:
             print(colored('Responda Somente Sim ou Não!', 'red'))
             print(colored('Você Deseja usar o Nome: {}', 'blue').format(str(Nome)))
+
+#Sera futuramente Melhorado!
